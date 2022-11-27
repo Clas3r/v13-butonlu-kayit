@@ -1,1 +1,3 @@
-# v13-butonlu-kayit
+# Altyapının paylaşılması/satılması yasaktır.
+
+# MIT Lisans Kurallarını Okuyabilirsiniz.
